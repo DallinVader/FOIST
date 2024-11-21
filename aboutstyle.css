@@ -1,16 +1,18 @@
 h1{
     text-align: center;
     font-family: "Ring.ttf";
+    background-color: rgba(255, 255, 255, 0.452);
 }
 html{
-    background-image: url('MainPhoto.png');
-    background-size: cover;
+    background-image: url('AboutPhoto.png');
+    background-size: 100%;
+    background-position: center;
     image-rendering: pixelated;
 }
 button{
+    
     width: 40%;
     font-size: 600%;
-    font-family: "Ring.ttf";
     border-radius: 50%;
     border-color: gold;
     display: block;
