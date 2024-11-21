@@ -3,7 +3,7 @@ h1{
     font-family: "Ring.ttf";
 }
 html{
-    background-image: url('MainPhoto.png');
+    background-image: url('../Images/MainPhoto.png');
     background-size: cover;
     image-rendering: pixelated;
 }
@@ -19,5 +19,5 @@ button{
 
 @font-face{
     font-family: "Ring.ttf";
-    src: url("Ring.ttf");
+    src: url("Fonts/Ring.ttf");
 }
